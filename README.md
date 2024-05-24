@@ -2,6 +2,8 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
+TransLLM is implemented based on the Chinese-LLaMA-Alpaca-2 project.
+
 ## Data
 We provide the following data:
 - Recovery KD data in English: ./code/train/distil_alpaca_en_52k_llama2-7b-chat.json
