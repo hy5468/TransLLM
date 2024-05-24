@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "conversations":[
+            {
+                "from": "human",
+                "value": "เมืองหลวงของประเทศไทยอยู่ที่ไหน"
+            },
+            {
+                "from": "gpt",
+                "value": "<EN> Where is the capital of Thailand? <RESPONSE> The capital of Thailand is Bangkok <TH> เมืองหลวงของประเทศไทยคือกรุงเทพมหานคร"
+            }
+        ]
+    }
+]
