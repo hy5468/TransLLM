@@ -44,7 +44,7 @@ We provide the following scripts for evaluation
 - Generate GPT-4 evaluations: ./eval/gpt4_eval.py
 
 ## Notice
-We have modify some files in ./Chinese-LLaMA-Alpaca-2/scripts/training.
+We have modified some files in ./Chinese-LLaMA-Alpaca-2/scripts/training.
 - run_clm_pt_with_peft.py
 - run_clm_sft_with_peft.py
 - build_dataset.py
